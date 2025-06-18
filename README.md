@@ -2,9 +2,10 @@
 Projeto AT2 N2 Programacao Concorrente e distribuida
 
 ---
-Professor: Marcelo Eustaquio Soares de lima Junior
+PROFESSOR: <br> 
+Marcelo Eustaquio Soares de lima Junior
 
-Alunos: <br>
+ALUNOS: <br>
 Gustavo Nunes Silva <br>
 Thiago Castro Gonçalves <br>
 Moises M X S de Paula <br>
