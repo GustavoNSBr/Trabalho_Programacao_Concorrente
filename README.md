@@ -2,6 +2,15 @@
 Projeto AT2 N2 Programacao Concorrente e distribuida
 
 ---
+Professor: Marcelo Eustaquio Soares de lima Junior
+
+Alunos:
+Gustavo Nunes Silva
+Thiago Castro Gonçalves
+Moises M X S de Paula
+Renan Augusto Barbosa Inacio da Silva
+
+---
 
 # Instruções para rodar o codigo:
 
