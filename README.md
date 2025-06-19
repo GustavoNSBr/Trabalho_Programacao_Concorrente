@@ -8,10 +8,9 @@ Marcelo Eustaquio Soares de lima Junior
 ALUNOS: <br>
 Gustavo Nunes Silva - UC23200427 <br>
 Thiago Castro Gonçalves - UC23101157 <br>
-Moises M X S de Paula <br>
-Renan Augusto Barbosa Inacio da Silva
-Rafael Rodrigues Martins
-
+Moises M X S de Paula - UC23200597 <br>
+Renan Augusto Barbosa Inácio da Silva - UC23201116 <br>
+Rafael Rodrigues Martins - UC22201129
 ---
 
 # Instruções para rodar o codigo:
