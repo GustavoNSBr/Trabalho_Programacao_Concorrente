@@ -14,7 +14,7 @@ Rafael Rodrigues Martins - UC22201129
 
 ---
 
-# Instruções para rodar o codigo:
+# Instruções para executar o codigo:
 
 Ter instalado as bibliotecas Python: 
 
