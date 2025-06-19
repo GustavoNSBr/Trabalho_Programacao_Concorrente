@@ -36,8 +36,12 @@ pip install matplotlib
 pip install seaborn
 
 ---
+Executar os arquivos:
 
-A execuçao demora cerca de 5 minutos porem varia de acordo com a maquina
+Versao_NP.py
+Versao_P.py
+
+A execuçao completa pode demorar cerca de 5 minutos porem varia de acordo com a maquina
 
 Apos a execuão serão gerados 3 graficos por arquivo executado + alem disso, sao gerados os arquivos Consolidado.csv e ResumoMetas.csv (Consolidado_P.csv e ResumoMetas_P_.csv na versão_P para comparar os resultados)
 
