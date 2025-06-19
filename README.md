@@ -38,7 +38,7 @@ pip install seaborn
 ---
 Executar os arquivos:
 
-Versao_NP.py
+Versao_NP.py <br>
 Versao_P.py
 
 A execuçao completa pode demorar cerca de 5 minutos porem varia de acordo com a maquina
